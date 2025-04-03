@@ -1,1 +1,26 @@
-
+div {
+  text-align: left;
+  overflow: hidden;
+  width: 100%;
+}
+img {
+  width: 250;
+  border: 2px solid black;
+}
+h1 {
+  background: darkblue;
+  color: white;
+}
+p {
+  text-align: left;
+}
+.column1 {
+  width: 48%;
+  float: left;
+  background: lightblue;
+}
+.column2 {
+  width: 48%;
+  float: right;
+  background: yellow;
+}
